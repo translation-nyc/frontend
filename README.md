@@ -1,3 +1,3 @@
-# frontend
+# North Yorkshire Council translation app frontend
 
-Team member names: Galin Mihaylov, Abdulrahman Gallul
+Team members: Galin Mihaylov, Abdulrahman Gallul, Shukai Zhang
