@@ -1,3 +1,3 @@
 # frontend
 
-Team member names: Galin Mihaylov, 
+Team member names: Galin Mihaylov, Abdulrahman Gallul
