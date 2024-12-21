@@ -2,11 +2,16 @@
 
 Team members: Galin Mihaylov, Abdulrahman Gallul, Shukai Zhang,
 
+## Running
+
+### Android
+
+You can open the Android application in Android Studio by selecting the `Android` run configuration in the dropdown next to the run button near the top right and running it.
+
+### Web
+
 You can open the web application by running the `:composeApp:wasmJsBrowserDevelopmentRun` Gradle task:
 ```bash
 ./gradlew :composeApp:wasmJsBrowserDevelopmentRun
 ```
-You can also create a run configuration for this in IntelliJ IDEA or Android Studio by following these steps:
-1. Open the Gradle tab on the right side of the IDE.
-2. Navigate to `translation-nyc-frontend` -> `composeApp` -> `Tasks` -> `kotlin browser`
-3. Double-click on `wasmJsBrowserDevelopmentRun` to run the task.
+You can also open it in IntelliJ IDEA or Android Studio by selecting the `Browser` run configuration in the dropdown next to the run button near the top right and running it.
